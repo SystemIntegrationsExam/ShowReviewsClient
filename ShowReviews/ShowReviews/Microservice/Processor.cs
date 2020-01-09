@@ -15,7 +15,7 @@ namespace ShowReviews.Microservice
         public async Task getReviews()
         {
             using (HttpResponseMessage responseMessage
-                = await Apihelper.ApiClient.GetAsync("https://sirestreview20191212123916.azurewebsites.net/api/values"))
+                = await Apihelper.ApiClient.GetAsync("https://sirestreviewfinal.azurewebsites.net/api/values"))
             {
                 if (responseMessage.IsSuccessStatusCode)
                 {

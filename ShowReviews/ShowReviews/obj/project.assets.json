@@ -59,11 +59,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bruger\\source\\repos\\Mini-Project-3-microservices\\ShowReviews\\ShowReviews\\ShowReviews.csproj",
+      "projectUniqueName": "C:\\Users\\Bruger\\source\\repos\\SIExam\\ShowReviewsClient\\ShowReviews\\ShowReviews\\ShowReviews.csproj",
       "projectName": "ShowReviews",
-      "projectPath": "C:\\Users\\Bruger\\source\\repos\\Mini-Project-3-microservices\\ShowReviews\\ShowReviews\\ShowReviews.csproj",
+      "projectPath": "C:\\Users\\Bruger\\source\\repos\\SIExam\\ShowReviewsClient\\ShowReviews\\ShowReviews\\ShowReviews.csproj",
       "packagesPath": "C:\\Users\\Bruger\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bruger\\source\\repos\\Mini-Project-3-microservices\\ShowReviews\\ShowReviews\\obj\\",
+      "outputPath": "C:\\Users\\Bruger\\source\\repos\\SIExam\\ShowReviewsClient\\ShowReviews\\ShowReviews\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
