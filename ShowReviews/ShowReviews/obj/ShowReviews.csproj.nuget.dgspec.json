@@ -1,33 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bruger\\source\\repos\\SIExam\\ShowReviewsClient\\ShowReviews\\ShowReviews\\ShowReviews.csproj": {}
+    "C:\\Users\\Dunk\\Source\\Repos\\ShowReviewsClient\\ShowReviews\\ShowReviews\\ShowReviews.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bruger\\source\\repos\\SIExam\\ShowReviewsClient\\ShowReviews\\ShowReviews\\ShowReviews.csproj": {
+    "C:\\Users\\Dunk\\Source\\Repos\\ShowReviewsClient\\ShowReviews\\ShowReviews\\ShowReviews.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bruger\\source\\repos\\SIExam\\ShowReviewsClient\\ShowReviews\\ShowReviews\\ShowReviews.csproj",
+        "projectUniqueName": "C:\\Users\\Dunk\\Source\\Repos\\ShowReviewsClient\\ShowReviews\\ShowReviews\\ShowReviews.csproj",
         "projectName": "ShowReviews",
-        "projectPath": "C:\\Users\\Bruger\\source\\repos\\SIExam\\ShowReviewsClient\\ShowReviews\\ShowReviews\\ShowReviews.csproj",
-        "packagesPath": "C:\\Users\\Bruger\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bruger\\source\\repos\\SIExam\\ShowReviewsClient\\ShowReviews\\ShowReviews\\obj\\",
+        "projectPath": "C:\\Users\\Dunk\\Source\\Repos\\ShowReviewsClient\\ShowReviews\\ShowReviews\\ShowReviews.csproj",
+        "packagesPath": "C:\\Users\\Dunk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dunk\\Source\\Repos\\ShowReviewsClient\\ShowReviews\\ShowReviews\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Bruger\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Dunk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/FaradayContract/_packaging/FaradayContractFeed/nuget/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.0": {

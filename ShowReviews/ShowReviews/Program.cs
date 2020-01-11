@@ -22,11 +22,10 @@ namespace ShowReviews
             Apihelper.InitializeClient();
             Processor processor = new Processor();
             await processor.getReviews();
-            int averageRating = 0;
+            await processor.getAvg();
             string message;
             foreach (var item in processor.ReviewList)
             {
-                averageRating = averageRating + item.Rating;
                 Console.WriteLine($"--------------------------");
                 Console.WriteLine($"Review rating {item.Rating}");
                 Console.WriteLine($"Review description {item.Description}");
@@ -34,11 +33,11 @@ namespace ShowReviews
                 Console.WriteLine($"--------------------------");
                 Thread.Sleep(500);
             }
-            Console.WriteLine($"Average rating is {averageRating = averageRating / processor.ReviewList.Count}");
+            Console.WriteLine($"Average rating is {processor.Average}");
 
             // LOGGING PROCES OF AVERAGE RATING
-            message = "Average Rating " + averageRating;
-            File.AppendAllText(logPath, TimeStampForLog(" ", message));
+            message = "Average Rating " + processor.Average;
+            // File.AppendAllText(logPath, TimeStampForLog(" ", message));
 
             Console.ReadLine();
         }

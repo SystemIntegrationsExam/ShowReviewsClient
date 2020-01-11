@@ -24,3 +24,16 @@ C:\Users\Bruger\source\repos\SIExam\ShowReviewsClient\ShowReviews\ShowReviews\ob
 C:\Users\Bruger\source\repos\SIExam\ShowReviewsClient\ShowReviews\ShowReviews\obj\Debug\netcoreapp3.0\ShowReviews.csproj.CopyComplete
 C:\Users\Bruger\source\repos\SIExam\ShowReviewsClient\ShowReviews\ShowReviews\obj\Debug\netcoreapp3.0\ShowReviews.dll
 C:\Users\Bruger\source\repos\SIExam\ShowReviewsClient\ShowReviews\ShowReviews\obj\Debug\netcoreapp3.0\ShowReviews.pdb
+C:\Users\Dunk\Source\Repos\ShowReviewsClient\ShowReviews\ShowReviews\bin\Debug\netcoreapp3.0\ShowReviews.exe
+C:\Users\Dunk\Source\Repos\ShowReviewsClient\ShowReviews\ShowReviews\bin\Debug\netcoreapp3.0\ShowReviews.deps.json
+C:\Users\Dunk\Source\Repos\ShowReviewsClient\ShowReviews\ShowReviews\bin\Debug\netcoreapp3.0\ShowReviews.runtimeconfig.json
+C:\Users\Dunk\Source\Repos\ShowReviewsClient\ShowReviews\ShowReviews\bin\Debug\netcoreapp3.0\ShowReviews.runtimeconfig.dev.json
+C:\Users\Dunk\Source\Repos\ShowReviewsClient\ShowReviews\ShowReviews\bin\Debug\netcoreapp3.0\ShowReviews.dll
+C:\Users\Dunk\Source\Repos\ShowReviewsClient\ShowReviews\ShowReviews\bin\Debug\netcoreapp3.0\ShowReviews.pdb
+C:\Users\Dunk\Source\Repos\ShowReviewsClient\ShowReviews\ShowReviews\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Dunk\Source\Repos\ShowReviewsClient\ShowReviews\ShowReviews\obj\Debug\netcoreapp3.0\ShowReviews.csprojAssemblyReference.cache
+C:\Users\Dunk\Source\Repos\ShowReviewsClient\ShowReviews\ShowReviews\obj\Debug\netcoreapp3.0\ShowReviews.AssemblyInfoInputs.cache
+C:\Users\Dunk\Source\Repos\ShowReviewsClient\ShowReviews\ShowReviews\obj\Debug\netcoreapp3.0\ShowReviews.AssemblyInfo.cs
+C:\Users\Dunk\Source\Repos\ShowReviewsClient\ShowReviews\ShowReviews\obj\Debug\netcoreapp3.0\ShowReviews.csproj.CopyComplete
+C:\Users\Dunk\Source\Repos\ShowReviewsClient\ShowReviews\ShowReviews\obj\Debug\netcoreapp3.0\ShowReviews.dll
+C:\Users\Dunk\Source\Repos\ShowReviewsClient\ShowReviews\ShowReviews\obj\Debug\netcoreapp3.0\ShowReviews.pdb
